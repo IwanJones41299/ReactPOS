@@ -1,0 +1,32 @@
+//Variables
+
+//Styles
+
+//Mobile
+.homeContainer-m{
+    width: 100%;
+    height: 87vh;
+    // background: url("./Components/Images/browserhome.png");
+}
+
+//Browser
+.homeContainer-b{
+    width: 100%;
+    height: 87vh;
+    background: url("./Components/Images/home.png");
+}
+
+.title{
+    margin-top: 15%;
+    color: #ffffff;
+}
+
+.login-btn{
+    width: 15vh;
+    font-size: 1.2em;
+}
+
+.login-btn:hover{
+    background-color: #17B496;
+    border: none;
+}
