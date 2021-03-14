@@ -14,19 +14,24 @@
     width: 100%;
     height: 87vh;
     background: url("./Components/Images/home.png");
+    background-size: cover;
 }
 
-.title{
-    margin-top: 15%;
+.homeTitle{
+    padding-top: 20%;
     color: #ffffff;
 }
 
-.login-btn{
-    width: 15vh;
-    font-size: 1.2em;
+.title{
+    margin-top: 20%;
+    color: #ffffff;
 }
 
 .login-btn:hover{
     background-color: #17B496;
     border: none;
+}
+
+.loginForm{
+    margin-top: 20%;
 }
